@@ -1,0 +1,1 @@
+alert("Server error | 500");
